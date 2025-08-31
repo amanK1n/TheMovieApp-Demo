@@ -3,11 +3,7 @@ MovieApp - Screenshots
 ## 📱 App Screenshots
 
 ### Home Screen
-![Home Screen](AppScreenshots/Homescreen.png)
-
-### Home Screen (resized)
-<img src="AppScreenshots/Homescreen.png" width="300">
-<img src="https://raw.githubusercontent.com/amanK1n/TheMovieApp-Demo/refs/heads/main/AppScreenshots/Homescreen.png" width="300">
+![Home Screen](<img src="AppScreenshots/Homescreen.png" width="300">)
 
 MovieApp is an iOS application built in Swift that allows users to browse trending and now-playing movies, search for movies in real-time, bookmark their favorites, and share movie details via deep-linking. The app is designed to work offline by persisting data in Core Data and caching images in the file system.
 🏗 Architecture
